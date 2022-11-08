@@ -24,6 +24,10 @@ npm install --save-dev jest-puppeteer puppeteer jest
 ```bash
 # TypeScript users should install following type packages
 npm install --save-dev @types/puppeteer @types/jest-environment-puppeteer @types/expect-puppeteer
+
+# for yarn:
+yarn add -W -D @types/puppeteer @types/jest-environment-puppeteer @types/expect-puppeteer
+
 ```
 
 ## Supporting jest-puppeteer
